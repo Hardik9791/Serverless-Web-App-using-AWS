@@ -2,7 +2,7 @@
 The Serverless Application is a cloud-based web application designed to store, retrieve, and manage recipes. The application is built using AWS serverless architecture, ensuring scalability, high availability, and cost-efficiency. The frontend is hosted on Amazon S3 and interacts with backend services like API Gateway, AWS Lambda, and DynamoDB.
 
 ## Architecture 
-![Alt text](https://chart.cloudairy.com/cloudchart/975711b2-7b41-4e40-960c-f4f87d4c5d15?a_id=de186ff5-9582-46cd-a967-6273c63cd80a)
+![Alt text](https://chart.cloudairy.com/cloudchart/c_crop,g_auto,h_250,w_200/docs/975711b2-7b41-4e40-960c-f4f87d4c5d15?a_id=de186ff5-9582-46cd-a967-6273c63cd80a)
 
 ## Technologies Used
 • AWS Services:
